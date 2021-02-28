@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/project/2021/02/28/hello-world/"/>
-      <url>/project/2021/02/28/hello-world/</url>
+      <link href="2021/02/28/hello-world/"/>
+      <url>2021/02/28/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://bngit.github.io/">bngit’s blog</a>! This is my very first post.</p>]]></content>
       
